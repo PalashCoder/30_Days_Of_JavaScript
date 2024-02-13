@@ -36,6 +36,7 @@
 <li>Day : Mini Project: Portfolio</li>
 <li>Day : Mini Project: Leaderboard</li>
 <li>Day : Mini Project: Animating characters</li>
-<li>Day : Final Projects</li>
-</ol>
+<li>Day : Final Projects</li> <br>
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
+  
+</ol>
