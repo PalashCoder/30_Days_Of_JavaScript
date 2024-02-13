@@ -2,7 +2,7 @@
 
 <h1>Start fron here: </h1>
 
-[Start](./Day_1/readme.md)
+[Start](./1_Day/readme.md)
 
 # Day 
 ## Topics

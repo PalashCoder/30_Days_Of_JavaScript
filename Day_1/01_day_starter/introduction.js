@@ -1,1 +1,0 @@
-console.log('Welcome to A_Month_Of_JavaScript')
